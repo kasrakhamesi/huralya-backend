@@ -16,6 +16,7 @@
     "lodash": "^4.17.21",
     "morgan": "^1.10.0",
     "mysql2": "^2.3.3",
+    "playfab-sdk": "^2.115.221207",
     "sequelize": "^6.21.4",
     "swagger-jsdoc": "^6.2.5",
     "swagger-ui-express": "^4.5.0"
