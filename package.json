@@ -10,16 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
-    "body-parser": "^1.20.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "lodash": "^4.17.21",
     "morgan": "^1.10.0",
     "mysql2": "^2.3.3",
     "playfab-sdk": "^2.115.221207",
+    "qrcode": "^1.5.1",
     "sequelize": "^6.21.4",
-    "swagger-jsdoc": "^6.2.5",
-    "swagger-ui-express": "^4.5.0"
+    "swagger-jsdoc": "^6.2.7",
+    "swagger-ui-express": "^4.6.0"
   },
   "devDependencies": {
     "sequelize-cli": "^6.4.1"
